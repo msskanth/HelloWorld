@@ -3,4 +3,5 @@ My first repository by following GitHub for Dummies by Sarah Guthals et al.
 
 This is an experiment to test the pull request feature.
 
-![headshot](Screenshot 2025-02-01 130321.png)
+<img width="930" alt="Screenshot 2023-11-02 121335" src="https://github.com/user-attachments/assets/a2bc6378-1a50-4e95-bc25-36c4f04136df" />
+
